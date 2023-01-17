@@ -8,6 +8,8 @@ int main()
     cin >> t;
     while (t--)
     {
+
+        // code
     }
 
     return 0;
