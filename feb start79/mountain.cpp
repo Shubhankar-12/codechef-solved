@@ -5,7 +5,7 @@ const int MAXN = 3e4 + 5;
 
 int N, M, Q, S[MAXN];
 int P[MAXN], K[MAXN], L[MAXN][MAXN], A[MAXN][MAXN];
-
+// main
 int main()
 {
     ios_base::sync_with_stdio(false);
